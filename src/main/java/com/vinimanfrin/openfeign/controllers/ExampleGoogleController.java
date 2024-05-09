@@ -1,6 +1,6 @@
 package com.vinimanfrin.openfeign.controllers;
 
-import com.vinimanfrin.openfeign.clients.GoogleClient;
+import com.vinimanfrin.openfeign.clients.example.GoogleClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
